@@ -1,0 +1,48 @@
+PIYUSH KUMAR
+Kanpur, India
+kpiyush032005@gmail.com — +91-7897920550 — Portfolio — LinkedIn
+Profile
+Product-focused engineering student with hands-on experience owning and delivering an AI-powered learning
+product. Proven ability to define product scope, drive execution across UI/UX, AI, and APIs, manage sprint
+workflows, and coordinate cross-functional teams. Seeking Product Management Intern opportunities in fast
+moving product environments.
+Education
+Bachelor of Technology (Mechanical Engineering)
+Harcourt Butler Technical University (HBTU), Kanpur
+Currently in 3rd Year
+Minor Degree — Business Analytics
+Harcourt Butler Technical University (HBTU), Kanpur
+Product Experience
+2023– 2027
+2025– 2027
+Product Lead — Skill to Speak
+AI-powered spoken English learning platform
+• Owned end-to-end product delivery from ideation to MVP launch
+• Led feature planning across UI/UX, AI evaluation logic, APIs, and core workflows
+• Authored and maintained PRDs, FRDs, sprint plans, and execution documentation
+• Coordinated with 3 developers using ClickUp and accountability sheets
+• Delivered MVP in 4 months, tested by 100+ internal users
+Relevant Experience
+Jul 2025– Nov 2025
+Marketing and Outreach Intern — The Code Kid (EdTech Startup)
+• Drove B2B outreach and school partnerships for coding education programs
+• Conducted meetings with school principals and academic coordinators
+• Enabled collaborations across 15+ schools
+• Generated leads impacting 700+ students
+• Strengthened stakeholder communication in a B2B education context
+Leadership & External Engagement
+Jan 2025– Apr 2025
+• Led the first on-ground seminar for Skill to Speak at Carver Public School, engaging students on communica
+tion, confidence, and leadership
+• Winner — Smart India Hackathon (Internal Round), recognized for problem-solving and team execution
+• Volunteer, Bhavna Welfare Foundation (NGO), contributed to community welfare initiatives
+Tools and Skills
+Product: Product Ownership, MVP Definition, Feature Prioritization (RICE / MoSCoW), Sprint Planning,
+UI/UX Coordination
+Analytics and Tech: SQL, GenAI (prompting, AI feature evaluation), API-level understanding
+Tools: ClickUp, Notion, Google Sheets, MS Excel, Draw.io, Postman, Figma (basic)
+Other Projects
+Built MERN-based learning projects; developed an AI chatbot using Gemini API; created a student productivity
+web app for task and finance tracking.
+Interests
+Product thinking, EdTech, AI-driven learning systems, communication psychology, startups, public speaking
